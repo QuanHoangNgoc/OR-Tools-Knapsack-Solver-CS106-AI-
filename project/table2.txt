@@ -1,0 +1,29 @@
+\begin{longtable}{lrr}
+\toprule
+testgroup & total_time & rate_optimal \\
+\midrule
+\endfirsthead
+\toprule
+testgroup & total_time & rate_optimal \\
+\midrule
+\endhead
+\midrule
+\multicolumn{3}{r}{Continued on next page} \\
+\midrule
+\endfoot
+\bottomrule
+\endlastfoot
+00 & 0 & 1.000000 \\
+01 & 0 & 1.000000 \\
+02 & 1849 & 0.375000 \\
+03 & 1800 & 0.375000 \\
+04 & 1451 & 0.500000 \\
+05 & 0 & 1.000000 \\
+06 & 1440 & 0.500000 \\
+07 & 2701 & 0.062500 \\
+08 & 2520 & 0.125000 \\
+09 & 2530 & 0.125000 \\
+10 & 1802 & 0.375000 \\
+11 & 1933 & 0.375000 \\
+12 & 2160 & 0.312500 \\
+\end{longtable}
