@@ -10,7 +10,10 @@
 ### show-off 
 - [x] Video 
 # Repo Structure:  
+- ALL_PROJECT: all about this project (source code, resources, submit)
+- [x] OneDrive 
 # Pipeline:   
+
 # How to install this project: 
 # Donate: 
 - If this project is useful, please like (star) to add motivation for me. 
