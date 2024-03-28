@@ -24,6 +24,7 @@
 # Donate: 
 - If this project is useful, please like (star) to add motivation for me. 
 - I am happy to share my knowledge and projects to people. I am willing to spend more time, enthusiasm and a well-groomed appearance for these projects. Thank you for your help
-
+# Some Updates: 
+- Occasionally, there will be a little updates to files (usually reports) in this project. Or there will also be a new folder added to the project.
 
 . 
