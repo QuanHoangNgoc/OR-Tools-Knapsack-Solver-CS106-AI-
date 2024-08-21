@@ -1,40 +1,115 @@
 # 📚 Introduction
 
-- **Quan Hoang Ngoc**
-- **Assignment 3 of _TTNT_**
-- _HK2_, 2024
+**Author:** Quan Hoang Ngoc  
+**Assignment:** Assignment 3 of _TTNT_  
+**Term:** HK2, 2024
 
-### 📝 About
+---
 
-In this project, we conducted experiments to measure and evaluate the solution and performance of OR-Tools for Knapsack problems. Our objective was to familiarize ourselves with OR-Tools, learning how to install and practically apply it. Setting up the experiments involved cloning a test-case set, reading files, and extracting data from the cloned folder. Automating these experiments efficiently posed a significant challenge.
+## 🌟 What is it?
 
-Practically, employing solver tools to tackle optimization problems was pivotal. Utilizing multiple computers proved effective in executing experiments, and leveraging programming languages to automatically generate reports showcased intelligent automation.
+This project focuses on experimenting with and evaluating the performance of OR-Tools in solving Knapsack problems. The primary objective is to gain hands-on experience with OR-Tools by learning how to install it, set up experiments, and automate the process for efficient performance analysis.
 
-### 🎥 Show-off
+---
 
-- [x] Watch the [Demo Video](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EsZIOq2rZ9VMsY8xvEaAuyQBaI79V5Znk-6JcrjjWioqfg?e=OCb0cW)
+## 📝 Why do we do it?
 
-# 📂 Repo Structure
+Optimization problems, such as the Knapsack problem, are crucial in various real-world applications. OR-Tools, a powerful optimization engine by Google, offers robust solutions to these problems. This project aims to:
+- Understand and apply OR-Tools for optimization challenges.
+- Automate the process of running experiments and generating reports.
+- Utilize multiple computers to enhance experiment execution efficiency.
 
-- **ALL_PROJECT**: Contains all project-related files including source code, resources, and submission materials.
-- [x] OneDrive: [OR-Tools_Multi-computers_Automatic-Report.ttnt](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EsZIOq2rZ9VMsY8xvEaAuyQBaI79V5Znk-6JcrjjWioqfg?e=OCb0cW)
-  - This folder includes submission files and serves as a backup for the project.
+---
 
-# 🚀 Pipeline
+## 🎯 Who is it for?
 
-- Survey guidelines, examples, API docs for frameworks, platforms, libraries, and necessary functions.
-- Design and implement an automated experiment pipeline.
-- Backup and log experiment results during execution and synthesize them afterward.
-- Use a programming language to generate comprehensive reports.
+This project is ideal for students, researchers, and developers who are interested in learning about optimization tools and their practical applications. By following the demo and exploring the provided resources, users can gain insights into solving complex optimization problems using OR-Tools.
 
-# ⚙️ How to Install This Project
+### 🎥 Demo & Results
 
-Clone the **ALL_PROJECT** branch to explore all tricks, source code, and experiment results.
+- **Demo Video:** [Watch Here](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EsZIOq2rZ9VMsY8xvEaAuyQBaI79V5Znk-6JcrjjWioqfg?e=OCb0cW)
+- **OneDrive Folder:** [OR-Tools Multi-computers Automatic Report](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EsZIOq2rZ9VMsY8xvEaAuyQBaI79V5Znk-6JcrjjWioqfg?e=OCb0cW)
 
-# 💖 Donate
+---
 
-If you find this project useful, please give it a star to motivate me. I'm dedicated to sharing my knowledge and projects with others, and I'm committed to investing time, enthusiasm, and meticulousness into these endeavors. Your support is greatly appreciated.
+## ⚙️ How did we do it?
 
-# 🔄 Little Updates
+### Detailed Approach:
 
-Occasionally, there will be updates to files (typically reports) or new folders added to the project. Stay tuned for improvements and additions!
+1. **Survey and Planning:**
+   - Reviewed guidelines, examples, API documentation for OR-Tools, and necessary functions.
+   - Designed an automated experiment pipeline.
+
+2. **Experiment Execution:**
+   - Cloned a test-case set, read files, and extracted data for the experiments.
+   - Ran experiments across multiple computers to optimize execution time.
+
+3. **Automation and Reporting:**
+   - Employed programming languages to automate the generation of reports.
+   - Backed up and logged experiment results during execution, and synthesized them afterward.
+
+---
+
+## 🛠️ Frameworks and Tools Used
+
+- **OR-Tools:** Chosen for its powerful optimization capabilities and extensive support for solving combinatorial problems like the Knapsack problem.
+- **Python:** Used for scripting and automating the experiments due to its ease of use and integration with OR-Tools.
+- **OneDrive:** Utilized for backing up project files and sharing results with the community.
+
+These tools were selected for their reliability, community support, and ability to handle complex tasks efficiently.
+
+---
+
+## 💡 What did you learn?
+
+Through this project, we learned:
+- How to effectively use OR-Tools to solve optimization problems.
+- The importance of automation in conducting large-scale experiments.
+- The value of leveraging multiple computing resources to improve efficiency.
+- The process of generating detailed reports automatically to streamline the analysis phase.
+
+---
+
+## 🏆 Achievements
+
+- **Effective Automation:** Successfully automated the process of running experiments and generating reports.
+- **Efficient Execution:** Optimized experiment execution by distributing tasks across multiple computers.
+- **Comprehensive Reporting:** Produced detailed, automated reports that synthesize the results of the experiments.
+
+---
+
+## 📂 How to Install and Run the Project
+
+### Installation Guide:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/ALL_PROJECT.git
+   cd ALL_PROJECT
+   ```
+
+2. **Explore the Project:**
+   - Access all source code, resources, and experiment results within the `ALL_PROJECT` directory.
+
+3. **Run the Experiments:**
+   - Follow the provided scripts to replicate the experiments or use the reports to review the results.
+
+---
+
+## 💖 Donate
+
+If you find this project useful, please star it to show your support. I'm committed to sharing my knowledge and projects with others, and your support encourages me to continue investing time, enthusiasm, and meticulous effort into these endeavors.
+
+---
+
+## 🔄 Little Updates
+
+Stay tuned for occasional updates, including new reports or folders added to the project. These updates will enhance the project's value and provide additional insights.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+
+---
