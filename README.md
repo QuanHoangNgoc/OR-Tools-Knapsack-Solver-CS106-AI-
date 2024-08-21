@@ -1,8 +1,8 @@
 # 📚 Introduction
 
-**Author:** Quan Hoang Ngoc  
-**Assignment:** Assignment 3
-**Term:** HK2, 2024
+- **Author:** Quan Hoang Ngoc  
+- **Assignment:** Assignment 3
+- **Term:** HK2, 2024
 
 ---
 
