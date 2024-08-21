@@ -27,7 +27,7 @@ This project is ideal for students, researchers, and developers who are interest
 
 ### 🎥 Demo & Results
 
-- **Demo Video:** [Watch Here](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EsZIOq2rZ9VMsY8xvEaAuyQBaI79V5Znk-6JcrjjWioqfg?e=OCb0cW)
+- **Demo Video:** **[Watch Here](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EsZIOq2rZ9VMsY8xvEaAuyQBaI79V5Znk-6JcrjjWioqfg?e=OCb0cW)**
 - **OneDrive Folder:** [OR-Tools Multi-computers Automatic Report](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EsZIOq2rZ9VMsY8xvEaAuyQBaI79V5Znk-6JcrjjWioqfg?e=OCb0cW)
 
 ---
