@@ -1,7 +1,7 @@
 # 📚 Introduction
 
 **Author:** Quan Hoang Ngoc  
-**Assignment:** Assignment 3 of _TTNT_  
+**Assignment:** Assignment 3
 **Term:** HK2, 2024
 
 ---
